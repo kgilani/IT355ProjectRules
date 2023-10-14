@@ -1,6 +1,6 @@
-void f (const Employee *e){
-    if (e) {
-        cout << *e;
+void f (const Employee *name){
+    if (name) {
+        cout << *name;
     }
 }
 
